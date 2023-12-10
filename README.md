@@ -23,8 +23,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [results-summary]()
-- Live Site URL: [results-summary]()
+- Solution URL: [results-summary](https://github.com/solomon244/results-summary-component)
+- Live Site URL: [results-summary](https://vercel.com/solomon244s-projects/my-repository/ES9CWgtSBqopdpKYwKWhe6d5EdEC)
 
 ## My process
 
@@ -36,4 +36,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - Mobile-first workflow
 
 ## Author
+- github - (https://github.com/solomon244/results-summary-component)
 
