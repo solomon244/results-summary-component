@@ -4,27 +4,24 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
-
 ### Screenshot
 
 #### Desktop 1440px
-
+![Desktop](https://github.com/solomon244/results-summary-component/assets/99808732/54d9b9df-452c-4334-8c14-f37a3260eea6)
 
 #### Mobile 375px
-
+![Mobile](https://github.com/solomon244/results-summary-component/assets/99808732/b7f33c4c-7921-4bf1-9ba7-672a7118a2fc)
 
 ### Links
 
 - Solution URL: [results-summary](https://github.com/solomon244/results-summary-component)
-- Live Site URL: [results-summary](https://vercel.com/solomon244s-projects/my-repository/ES9CWgtSBqopdpKYwKWhe6d5EdEC)
+- Live Site URL: [results-summary](https://my-repository-two-topaz.vercel.app/)
 
 ## My process
 
@@ -33,7 +30,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+- Mobile-first approch
 
 ## Author
 - Github - [@solomon244](https://github.com/solomon244)
