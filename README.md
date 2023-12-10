@@ -36,5 +36,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - Mobile-first workflow
 
 ## Author
-- github - (https://github.com/solomon244/results-summary-component)
+- Github - [@solomon244](https://github.com/solomon244)
+- LinkedIn - [@solomon244](https://www.linkedin.com/in/solomon24)
 
